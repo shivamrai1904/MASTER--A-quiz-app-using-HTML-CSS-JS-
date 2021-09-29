@@ -1,2 +1,2 @@
-Quiz-Master
-An app developed using Html, CSS and JavaScript
+Quiz-Master: 
+App developed using Html, CSS and JavaScript
